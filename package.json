@@ -1,0 +1,37 @@
+{
+  "name": "youtube-algorithm-sds-test",
+  "version": "0.0.1",
+  "description": "testing youtube api",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LimeTasteLife/Youtube-Algorithm-SDS-test.git"
+  },
+  "author": "HaYeong_Joo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LimeTasteLife/Youtube-Algorithm-SDS-test/issues"
+  },
+  "homepage": "https://github.com/LimeTasteLife/Youtube-Algorithm-SDS-test#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "cookie-parser": "^1.4.6",
+    "dotenv": "^14.2.0",
+    "express": "^4.17.2",
+    "express-session": "^1.17.2",
+    "morgan": "^1.10.0",
+    "mysql2": "^2.3.3",
+    "nunjucks": "^3.2.3",
+    "passport": "^0.5.2",
+    "passport-google-oauth": "^2.0.0",
+    "sequelize": "^6.14.0",
+    "sequelize-cli": "^6.4.1",
+    "session-file-store": "^1.5.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
