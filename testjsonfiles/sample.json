@@ -1,0 +1,146 @@
+{
+    "kind": "youtube#channelListResponse",
+    "etag": "g3QLPMYwkZGo0cU8iw9VUmRaPvQ",
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 5
+    },
+    "items": [
+        {
+            "kind": "youtube#channel",
+            "etag": "TK3wb1QyKwf-FuQoiajUyvBMleg",
+            "id": "UCdwyTJbOy8xK2hPoe28o7Fw",
+            "snippet": {
+                "title": "올냥이 AllTopCAT",
+                "description": "트위치에서 매일밤 8시쯤 생방송! (휴방일정은 방송국 참고😄)\n옥냥이 풀영상을 모아놓는 채널입니다 재밌게 시청해주세요 ~(^_^~)(~^_^)~\n\n* 생방송 : https://www.twitch.tv/rooftopcat99\n* 방송국 주소 : https://cafe.naver.com/dhrsiddl\n* 비즈니스 문의 : heonjae@sandboxnetwork.net\n",
+                "publishedAt": "2021-01-16T13:34:33.278236Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AKedOLQKP4RPwPHK0jiGCm-IRqeMTzSiM787vcA7wZAx=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AKedOLQKP4RPwPHK0jiGCm-IRqeMTzSiM787vcA7wZAx=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AKedOLQKP4RPwPHK0jiGCm-IRqeMTzSiM787vcA7wZAx=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "올냥이 AllTopCAT",
+                    "description": "트위치에서 매일밤 8시쯤 생방송! (휴방일정은 방송국 참고😄)\n옥냥이 풀영상을 모아놓는 채널입니다 재밌게 시청해주세요 ~(^_^~)(~^_^)~\n\n* 생방송 : https://www.twitch.tv/rooftopcat99\n* 방송국 주소 : https://cafe.naver.com/dhrsiddl\n* 비즈니스 문의 : heonjae@sandboxnetwork.net\n"
+                },
+                "country": "KR"
+            },
+            "contentDetails": {
+                "relatedPlaylists": {
+                    "likes": "",
+                    "uploads": "UUdwyTJbOy8xK2hPoe28o7Fw"
+                }
+            },
+            "statistics": {
+                "viewCount": "5575380",
+                "subscriberCount": "66900",
+                "hiddenSubscriberCount": false,
+                "videoCount": "117"
+            },
+            "topicDetails": {
+                "topicIds": [
+                    "/m/0bzvm2",
+                    "/m/025zzc",
+                    "/m/02ntfj",
+                    "/m/03hf_rm"
+                ],
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Video_game_culture",
+                    "https://en.wikipedia.org/wiki/Action_game",
+                    "https://en.wikipedia.org/wiki/Action-adventure_game",
+                    "https://en.wikipedia.org/wiki/Strategy_video_game"
+                ]
+            },
+            "brandingSettings": {
+                "channel": {
+                    "title": "올냥이 AllTopCAT",
+                    "description": "트위치에서 매일밤 8시쯤 생방송! (휴방일정은 방송국 참고😄)\n옥냥이 풀영상을 모아놓는 채널입니다 재밌게 시청해주세요 ~(^_^~)(~^_^)~\n\n* 생방송 : https://www.twitch.tv/rooftopcat99\n* 방송국 주소 : https://cafe.naver.com/dhrsiddl\n* 비즈니스 문의 : heonjae@sandboxnetwork.net\n",
+                    "keywords": "올냥이",
+                    "unsubscribedTrailer": "u1VyUcw2KwI",
+                    "country": "KR"
+                },
+                "image": {
+                    "bannerExternalUrl": "https://yt3.ggpht.com/dJ6BvxbiY79GxzwgmhPye9U408X_1-h77lLojVsKDl5XcENHozd61sXb_EJXPWrrnj8rCB7xRcU"
+                }
+            }
+        }
+    ]
+}
+
+{
+    "kind": "youtube#channelListResponse",
+    "etag": "3D4yI407L-keFu96_GVMqU2FPYA",
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 5
+    },
+    "items": [
+        {
+            "kind": "youtube#channel",
+            "etag": "96S7F01Ft412MS24DqRk2zy46Fw",
+            "id": "UCV9WL7sW6_KjanYkUUaIDfQ",
+            "snippet": {
+                "title": "고세구 GOSEGU",
+                "description": "트위치: https://www.twitch.tv/gosegugosegu\n킹받는 버츄얼 아이돌! 버튜버 고세구! \n\n똥겜/마크/VRCHAT/노가리\n\n-캐릭터 출처\n作者名：「こまど」\nTwitter:@komado_booth\n(캐릭터 제작자님의 허가를 얻어 활동하고 있습니다)\n",
+                "publishedAt": "2021-08-28T14:37:14.77342Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/AIoO_0IdKYBdzlcRQ85oZxMaTBj_RVDvP8QmTmJZoOO_TTJd5NXql17hDfIl_bvcTQ4aAqFGIA=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/AIoO_0IdKYBdzlcRQ85oZxMaTBj_RVDvP8QmTmJZoOO_TTJd5NXql17hDfIl_bvcTQ4aAqFGIA=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/AIoO_0IdKYBdzlcRQ85oZxMaTBj_RVDvP8QmTmJZoOO_TTJd5NXql17hDfIl_bvcTQ4aAqFGIA=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "고세구 GOSEGU",
+                    "description": "트위치: https://www.twitch.tv/gosegugosegu\n킹받는 버츄얼 아이돌! 버튜버 고세구! \n\n똥겜/마크/VRCHAT/노가리\n\n-캐릭터 출처\n作者名：「こまど」\nTwitter:@komado_booth\n(캐릭터 제작자님의 허가를 얻어 활동하고 있습니다)\n"
+                }
+            },
+            "contentDetails": {
+                "relatedPlaylists": {
+                    "likes": "",
+                    "uploads": "UUV9WL7sW6_KjanYkUUaIDfQ"
+                }
+            },
+            "statistics": {
+                "viewCount": "14766370",
+                "subscriberCount": "90200",
+                "hiddenSubscriberCount": false,
+                "videoCount": "112"
+            },
+            "topicDetails": {
+                "topicIds": [
+                    "/m/0403l3g",
+                    "/m/02ntfj",
+                    "/m/0bzvm2"
+                ],
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Role-playing_video_game",
+                    "https://en.wikipedia.org/wiki/Action-adventure_game",
+                    "https://en.wikipedia.org/wiki/Video_game_culture"
+                ]
+            }
+        }
+    ]
+}

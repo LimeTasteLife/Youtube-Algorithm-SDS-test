@@ -1,41 +1,54 @@
 const Sequelize = require('sequelize');
 
 module.exports = class User extends Sequelize.Model {
-    static init(sequelize) {
-        return super.init({
-            email: {
-                type: Sequelize.STRING(40),
-                allowNull: true,
-                unique: true,
-            },
-            name: {
-                type: Sequelize.STRING(30),
-                allowNull: false,
-            },
-            provider: {
-                type: Sequelize.STRING(10),
-                allowNull: false,
-                defaultValue: 'local',
-            },
-            token: {
-                type: Sequelize.STRING(200),
-                allowNull: true,
-            },
-            snsId: {
-                type: Sequelize.STRING(30),
-                allowNull: true,
-            },
-        }, {
-            sequelize,
-            timestamps: true,
-            underscored: false,
-            modleName: 'User',
-            tableName: 'users',
-            paranoid: true,
-            charset: 'utf8',
-            collate: 'utf8_general_ci',
-        });
-    }
+  static init(sequelize) {
+    return super.init(
+      {
+        email: {
+          type: Sequelize.STRING(40),
+          allowNull: true,
+          unique: true,
+        },
+        name: {
+          type: Sequelize.STRING(30),
+          allowNull: false,
+        },
+        provider: {
+          type: Sequelize.STRING(10),
+          allowNull: false,
+          defaultValue: 'local',
+        },
+        token: {
+          type: Sequelize.STRING(200),
+          allowNull: true,
+        },
+        refreshToken: {
+          type: Sequelize.STRING(300),
+          allowNull: true,
+        },
+        snsId: {
+          type: Sequelize.STRING(30),
+          allowNull: true,
+        },
+        subCount: {
+          type: Sequelize.INTEGER,
+          allowNull: true,
+        },
+      },
+      {
+        sequelize,
+        timestamps: true,
+        underscored: false,
+        modleName: 'User',
+        tableName: 'users',
+        paranoid: true,
+        charset: 'utf8',
+        collate: 'utf8_general_ci',
+      }
+    );
+  }
 
-    static associate(db) {}
+  static associate(db) {
+    db.User.hasMany(db.UserData);
+  }
 };
